@@ -13,7 +13,7 @@ This document presents the results of peer Assessments 1 of course.
 
 
 ### Repository
-Github repository with RMarkdown source code: [link](https://github.com/juliocesarsolano/RepData_PeerAssessment1)
+Github repository with RMarkdown source code: [Github repository](https://github.com/juliocesarsolano/RepData_PeerAssessment1)
 
 
 
